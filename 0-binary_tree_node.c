@@ -1,9 +1,8 @@
-#include <stdlib.h>
 #include "binary_trees.h"
 
-/*
+/**
 * binary_tree_node - creates a binary tree
-* @parent: pointer to the parent node
+*@parent: pointer to the parent node
 *@value: value of n
 *
 *Return: Pointer to the new node or NULL on malloc failure
